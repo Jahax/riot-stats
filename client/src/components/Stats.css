@@ -1,0 +1,12 @@
+.matches {
+    border-bottom: 1px solid #666;
+    padding-top: 15px;
+}
+
+.matches p {
+    font-size: 11px;
+}
+
+.runes {
+    max-height: 32px;
+}

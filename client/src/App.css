@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  padding-top: 3rem;
+}
+
+.footer {
+  padding: 10px;
+  bottom: 0px;
+  display: flex;
+  min-height: 50px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  font-size: 12px;
+  font-style: italic;
+}
+
+.footer span {
+  width: 80%;
+  margin: 0px auto;
+}
